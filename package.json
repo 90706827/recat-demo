@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "90706827 <90706827@163.com>",
+  "license": "MIT"
+}
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "react typescript",
+  "private": true,
+  "author": {
+    "name": "90706827",
+    "url": "http://baidu.com",
+    "email": "90706827@163.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:90706827/react-demo.git"
+  },
+  "license": "MIT",
+  "scripts": {}
+}
